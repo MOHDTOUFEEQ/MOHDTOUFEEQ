@@ -54,7 +54,7 @@
 
 ### 🌐 **[Portfolio Website](https://thetoufeeq.com)**  
 - **Description**: A personal portfolio showcasing my skills, experience, and projects.  
-- **Tech Stack**: HTML5, CSS3, Tailwind CSS, JavaScript  
+- **Tech Stack**: HTML5, CSS3, Tailwind CSS, JavaScript, React 
 - **Features**:  
   - Interactive UI with animations and a responsive layout  
   - Detailed sections for projects, skills, and contact information  
