@@ -44,7 +44,7 @@
 
 ## 🌟 Key Projects  
 
-### 📝 **MyBlogs - Blog Application**  
+### 📝 **[MyBlogs - Blog Application](https://toufeeqblogs.info)**  
 - **Description**: A modern, responsive blog application allowing users to create, edit, and manage their posts.  
 - **Tech Stack**: React.js, Tailwind CSS, Appwrite (Backend-as-a-Service), JavaScript  
 - **Features**:  
@@ -52,7 +52,7 @@
   - Full CRUD functionality for blog posts  
   - Clean and responsive design optimized for various devices  
 
-### 🌐 **Portfolio Website**  
+### 🌐 **[Portfolio Website](https://thetoufeeq.com)**  
 - **Description**: A personal portfolio showcasing my skills, experience, and projects.  
 - **Tech Stack**: HTML5, CSS3, Tailwind CSS, JavaScript  
 - **Features**:  
@@ -74,14 +74,14 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/yourlinkedinprofile/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
   <a href="https://www.thetoufeeq.com" target="_blank">
     <img src="https://img.shields.io/badge/-Website-F77B00?logo=internet-explorer&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:mohdtoufeeq1447@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/MOHDTOUFEEQ" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
