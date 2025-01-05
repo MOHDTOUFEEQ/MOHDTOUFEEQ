@@ -82,7 +82,7 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedinprofile/](https://www.linkedin.com/in/toufeeq-mohammed-956042266/" target="_blank">
+  <a href="https://www.linkedin.com/in/toufeeq-mohammed-956042266/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.thetoufeeq.com" target="_blank">
