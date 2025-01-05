@@ -52,6 +52,14 @@
   - Full CRUD functionality for blog posts  
   - Clean and responsive design optimized for various devices  
 
+### 🌐 **[Portfolio Website](https://thetoufeeq.com)**  
+- **Description**: A personal portfolio showcasing my skills, experience, and projects.  
+- **Tech Stack**: HTML5, CSS3, Tailwind CSS, JavaScript, React  
+- **Features**:  
+  - Interactive UI with animations and a responsive layout  
+  - Detailed sections for projects, skills, and contact information  
+  - Fully optimized for performance and accessibility  
+
 ### 💬 **[Mystery Message Platform](https://mystry-messages-kohl.vercel.app)**  
 - **Description**: An innovative platform for anonymous messaging using unique shareable URLs.  
 - **Tech Stack**: Next.js, React.js, TypeScript, Tailwind CSS, MongoDB, Zod, JS Cookies, React Router DOM, NextAuth  
@@ -60,14 +68,6 @@
   - Secure authentication with NextAuth and MongoDB for data management  
   - Responsive UI with a focus on user-friendly interactions and scalability  
 
-### 💬 **[Mystery Message Platform](https://mystry-messages-kohl.vercel.app)**  
-- **Description**: An innovative platform for anonymous messaging using unique shareable URLs.  
-- **Tech Stack**: Next.js, React.js, TypeScript, Tailwind CSS, MongoDB, Zod, JS Cookies, React Router DOM, NextAuth  
-- **Features**:  
-  - Users can generate and share unique URLs to receive anonymous messages  
-  - Secure authentication with NextAuth and MongoDB for data management  
-  - Responsive UI with a focus on user-friendly interactions and scalability
-    
 ---
 
 ## 🎓 Certifications  
