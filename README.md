@@ -60,14 +60,14 @@
   - Secure authentication with NextAuth and MongoDB for data management  
   - Responsive UI with a focus on user-friendly interactions and scalability  
 
-🔐 Mystery Message Platform
-Description: A platform that allows users to send and receive anonymous messages via unique URLs generated from their dashboards.
-Tech Stack: Next.js, React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, MongoDB, Zod, JS Cookies, React Router DOM, NextAuth
-Features:
-Anonymous messaging through secure, unique URLs
-User authentication and scalability with NextAuth and MongoDB
-A responsive, modern UI crafted with Tailwind CSS
-Seamless integration of multiple technologies for optimal performance
+### 💬 **[Mystery Message Platform](https://mystry-messages-kohl.vercel.app)**  
+- **Description**: An innovative platform for anonymous messaging using unique shareable URLs.  
+- **Tech Stack**: Next.js, React.js, TypeScript, Tailwind CSS, MongoDB, Zod, JS Cookies, React Router DOM, NextAuth  
+- **Features**:  
+  - Users can generate and share unique URLs to receive anonymous messages  
+  - Secure authentication with NextAuth and MongoDB for data management  
+  - Responsive UI with a focus on user-friendly interactions and scalability
+    
 ---
 
 ## 🎓 Certifications  
