@@ -68,6 +68,16 @@
   - Secure authentication with NextAuth and MongoDB for data management  
   - Responsive UI with a focus on user-friendly interactions and scalability  
 
+### 📸 **[Instagram Clone](https://instagram-clone-zeta-three-95.vercel.app/)**  
+- **Description**: A fully functional Instagram clone that allows users to sign up, post images, like and comment on posts, and interact with other users.  
+- **Tech Stack**: Next.js, React.js, TypeScript, Tailwind CSS, MongoDB, Appwrite  
+- **Features**:  
+  - User authentication with Appwrite for secure sign-up/sign-in  
+  - Ability to upload images, like, and comment on posts  
+  - Real-time updates and notifications using Appwrite's real-time database features  
+  - Responsive UI built with Tailwind CSS for optimal viewing across all devices  
+  - Image uploads powered by Cloudinary for scalable storage and delivery  
+    
 ---
 
 ## 🎓 Certifications  
